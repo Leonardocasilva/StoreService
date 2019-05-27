@@ -1,0 +1,14 @@
+C:\Users\leona\source\repos\StoreService\bin\Debug\netcoreapp2.1\StoreService.deps.json
+C:\Users\leona\source\repos\StoreService\bin\Debug\netcoreapp2.1\StoreService.runtimeconfig.json
+C:\Users\leona\source\repos\StoreService\bin\Debug\netcoreapp2.1\StoreService.runtimeconfig.dev.json
+C:\Users\leona\source\repos\StoreService\bin\Debug\netcoreapp2.1\StoreService.dll
+C:\Users\leona\source\repos\StoreService\bin\Debug\netcoreapp2.1\StoreService.pdb
+C:\Users\leona\source\repos\StoreService\obj\Debug\netcoreapp2.1\StoreService.csprojAssemblyReference.cache
+C:\Users\leona\source\repos\StoreService\obj\Debug\netcoreapp2.1\StoreService.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\StoreService\obj\Debug\netcoreapp2.1\StoreService.RazorAssemblyInfo.cache
+C:\Users\leona\source\repos\StoreService\obj\Debug\netcoreapp2.1\StoreService.RazorAssemblyInfo.cs
+C:\Users\leona\source\repos\StoreService\obj\Debug\netcoreapp2.1\StoreService.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\StoreService\obj\Debug\netcoreapp2.1\StoreService.AssemblyInfo.cs
+C:\Users\leona\source\repos\StoreService\obj\Debug\netcoreapp2.1\StoreService.RazorTargetAssemblyInfo.cache
+C:\Users\leona\source\repos\StoreService\obj\Debug\netcoreapp2.1\StoreService.dll
+C:\Users\leona\source\repos\StoreService\obj\Debug\netcoreapp2.1\StoreService.pdb
